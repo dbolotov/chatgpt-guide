@@ -1,9 +1,9 @@
-# ChatGPT: Capabilities, Limits, and Practical 
+# ChatGPT: Capabilities, Limits, and Practical Use
 
 
 <!-- TOC -->
 
-- [ChatGPT: Capabilities, Limits, and Practical](#chatgpt-capabilities-limits-and-practical)
+- [ChatGPT: Capabilities, Limits, and Practical Use](#chatgpt-capabilities-limits-and-practical-use)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Limits and Gotchas](#limits-and-gotchas)
@@ -15,7 +15,6 @@
 - [Glossary](#glossary)
 
 <!-- /TOC -->
-
 # Introduction
 
 This is a guide to ChatGPT from OpenAI. It's intended for readers with a technical background or at least a working familiarity with software, data, or systems thinking. It covers features (free and paid), limits and gotchas (and how to deal with these), prompt engineering, settings, and technical jargon. 
