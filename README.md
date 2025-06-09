@@ -1,18 +1,34 @@
-# ChatGPT: Capabilities, Limits, and Practical Use
+# ChatGPT: Capabilities, Limits, and Practical 
 
-# Intro
+
+<!-- TOC -->
+
+- [ChatGPT: Capabilities, Limits, and Practical](#chatgpt-capabilities-limits-and-practical)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Limits and Gotchas](#limits-and-gotchas)
+- [How to Use ChatGPT More Safely and Effectively](#how-to-use-chatgpt-more-safely-and-effectively)
+- [System & Settings Tips](#system--settings-tips)
+- [Prompt Engineering](#prompt-engineering)
+- [Documentation & Resources](#documentation--resources)
+- [OpenAI products June 2025](#openai-products-june-2025)
+- [Glossary](#glossary)
+
+<!-- /TOC -->
+
+# Introduction
 
 This is a guide to ChatGPT from OpenAI. It's intended for readers with a technical background or at least a working familiarity with software, data, or systems thinking. It covers features (free and paid), limits and gotchas (and how to deal with these), prompt engineering, settings, and technical jargon. 
 
 # Features
 
-### Free (GPT-3.5)
+## Free (GPT-3.5)
 
 - **Chat with GPT-3.5:** Good for basic writing, planning, and quick answers. Fast, but less accurate than GPT-4.
 - **Prompt interface:** Ask questions or give instructions in plain language.
 - **Chat history:** Conversations are saved and searchable.
 
-### Paid (GPT-4-turbo with ChatGPT Plus)
+## Paid (GPT-4-turbo with ChatGPT Plus)
 
 - **Access to GPT-4-turbo:** More accurate, better at reasoning, and handles longer input (up to 128K tokens).
 - **Custom GPTs:** Build your own assistant with saved instructions, files, and tools. No coding required.
@@ -45,7 +61,7 @@ This is a guide to ChatGPT from OpenAI. It's intended for readers with a technic
 - **Custom GPTs may misbehave:** Even with good instructions, Custom GPTs can produce off-topic or inconsistent responses.
 - **No true privacy or confidentiality:** Don't put sensitive client or business data into ChatGPT. It's still a third-party system.
 
-## How to Use ChatGPT More Safely and Effectively
+# How to Use ChatGPT More Safely and Effectively
 
 - **Ask it to double-check its own work:** Add a follow-up prompt like “Can you check for mistakes or inconsistencies?” It often catches its own errors.
 - **Make it explain its reasoning:** Say “Write out the steps you took to get this answer.” This helps spot logic gaps or weak assumptions.
@@ -100,7 +116,7 @@ Good prompts are clear and specific. The model works best when it knows who it's
 >Output should be a short, clear email in plain language.
 
 
-## Prompt Examples
+## Useful Prompts
 
 These are plug-and-play prompts. You can copy them and change the content to fit your needs.
 
